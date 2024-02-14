@@ -11,6 +11,7 @@ References:
 * r/dndnext, ["Have you ever played a Spores Druid?  How was your experience with it?"](https://old.reddit.com/r/dndnext/comments/12ikbgc/have_you_ever_played_a_spores_druid_how_was_your/)
 * enworld, ["Circle of Spores:  A Better Execution"](https://www.enworld.org/threads/circle-of-spores-a-better-execution.691643/)
 * r/3d6, ["Spore Druid Viability"](https://old.reddit.com/r/3d6/comments/wh7abe/spore_druid_viability/ij46637/)
+* r/dndnext, ["The circle of spores druid is designed badly"](https://old.reddit.com/r/dndnext/comments/13tku1z/the_circle_of_spores_druid_is_designed_badly/)
 
 Druids of the Circle of Spores find beauty in decay. They see within mold and other fungi the ability to transform lifeless material into abundant, albeit somewhat strange, life. These druids believe that life and death are parts of a grand cycle, with one leading to the other and then back again. Death isn't the end of life, but instead a change of state that sees life shift into a new form.
 
